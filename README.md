@@ -9,3 +9,5 @@
 
 ## How to Play
 A tutorial can be found once the game is launched. [Play here!](https://livelliott.github.io/space-cat-space-crash/Builds/index.html)
+
+Created by [@livelliott](https://github.com/livelliott), [@dajungyoon](https://github.com/dajungyoon), and [@Gansito52](https://github.com/Gansito52)
