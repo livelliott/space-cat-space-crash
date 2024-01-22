@@ -8,4 +8,4 @@
 </p>
 
 ## How to Play
-A tutorial can be found once the game is launched. [Play here!](livelliott.github.io/space-cat-space-crash/Builds/index.html)
+A tutorial can be found once the game is launched. [Play here!](https://livelliott.github.io/space-cat-space-crash/Builds/index.html)
